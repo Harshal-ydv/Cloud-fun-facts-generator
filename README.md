@@ -13,8 +13,12 @@ With a single click, the app fetches a random cloud computing fact from a Dynamo
 ##  Architecture
 
 
-![Cloud Fun Facts Generator Architecture Diagram](Cloud-fun-fact-diagram.png)
+![Architecture Diagram](assets/Cloud-fun-fact-diagram.png)
 
+## Screenshots
+
+### Live Website
+![Website Preview](assets/website-preview.png)
 ---
 
 ##  AWS Services Used
